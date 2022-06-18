@@ -1,0 +1,13 @@
+.kepala{
+    border-bottom: solid rgb(235, 152, 27);
+}
+.judul{
+    font-size: 1.8rem;
+    padding: 2px;
+    margin: 2px;
+}
+.anak{
+    font-size: 1.3rem;
+    padding: 2px;
+    margin: 2px;
+}

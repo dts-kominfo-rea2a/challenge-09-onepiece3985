@@ -1,0 +1,32 @@
+img{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 20px;
+}
+.kolomFoto{
+    flex-basis: 30%;
+    text-align: center;
+    align-self: center;
+    font-size: 2rem;
+}
+.kolomData{
+    flex-basis: 70%;
+    padding: 10px;
+}
+.telepon{
+    font-weight: bold;
+}
+.email{
+    font-style: italic;
+}
+.kolomKontak{
+    display: flex;
+    flex-direction: inline;
+    background-color: brown;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.8);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
